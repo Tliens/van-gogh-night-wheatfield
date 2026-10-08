@@ -1,0 +1,41 @@
+{
+ "project": "/Users/tlien/Desktop/AI 教程/梵高动画/代码工程",
+ "segments": [
+  {
+   "id": "vg_a",
+   "window_lt": [
+    0.0,
+    9.589
+   ],
+   "frames": 287,
+   "ms_mean": 169.3,
+   "ms_max": 243.5,
+   "ms_cold": 172.2,
+   "deterministic": true,
+   "det_maxdiff": 0,
+   "motion_pct": 2.42,
+   "motion_max": 20.34,
+   "still_pairs_pct": 0.0,
+   "spike_ratio": 10.8,
+   "spikes_at_lt": [
+    0.034,
+    0.067,
+    0.101,
+    0.134,
+    0.168,
+    0.201,
+    0.235
+   ],
+   "framing": [],
+   "text_tracked": 574
+  }
+ ],
+ "transitions": [
+  {
+   "id": "vg_a",
+   "type": "swirl",
+   "ms_max": 194.2
+  }
+ ],
+ "page_errors": []
+}

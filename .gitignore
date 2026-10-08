@@ -1,0 +1,7 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+.venv/
+
+# 审片过程产物（可重新生成）
+审片/
